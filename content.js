@@ -16,15 +16,15 @@ function fillForm() {
     };
 
     const userData = {
-        "Full Name": "Tejasvi Urkande",
-        "Phone Number": "9699733259",
-        "Email": "tejasviurkande@gmail.com",
-        "Address": "Sewagram, Wardha",
-        "10th Percentage": "81.40",
+        "Full Name": "ABC",
+        "Phone Number": "1234567890",
+        "Email": "ABC@gmail.com",
+        "Address": "Mumbai",
+        "10th Percentage": "89.40",
         "12th Percentage": "92.00",
-        "Overall CGPA": "7.22",
-        "LinkedIn Profile": "https://www.linkedin.com/in/tejasvi-urkande/",
-        "GitHub Profile": "https://github.com/tejasviurka"
+        "Overall CGPA": "9.00",
+        "LinkedIn Profile": "https://www.linkedin.com",
+        "GitHub Profile": "https://github.com"
     };
 
     let filledFields = 0;
